@@ -1,5 +1,7 @@
 # dimm-error-pattern-visualization
 
+This tool for visualization the spatial distribution of correctable memory errors was developed with the publication .... If you use it, we are happy if you cite it.
+
 ## Data requirements
 In order for the code to work properly, the input data has to fulfill some conditions. 
 The input .csv has to contain the following columns:
