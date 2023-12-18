@@ -1,6 +1,6 @@
 # dimm-error-pattern-visualization
 
-This tool for visualization the spatial distribution of correctable memory errors was developed with the publication https://doi.org/10.1016/j.jpdc.2023.104800. If you use it, we are happy if you cite it.
+This tool for visualization the spatial distribution of correctable memory errors was developed with the publication https://doi.org/10.1016/j.jpdc.2023.104800. If you use it, we will be happy if you cite it.
 
 ## Data requirements
 In order for the code to work properly, the input data has to fulfill some conditions. 
